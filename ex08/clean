@@ -1,0 +1,3 @@
+find . -type f /(-name "*~" -o -name "#*#" /) -print -delete
+# -o -> 2 dosya kontrol etmek için
+# -type f -> hangi klasörde arama yapacağımızı belirtiyoruz
