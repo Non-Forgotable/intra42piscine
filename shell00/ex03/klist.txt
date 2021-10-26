@@ -1,0 +1,5 @@
+Credentials cache: API:0622C9E6-2110-43CB-A268-6BB35100D295
+        Principal: odursun@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 21 19:35:38 2021  Oct 22 05:35:35 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
